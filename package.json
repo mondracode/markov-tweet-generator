@@ -1,0 +1,15 @@
+{
+  "name": "alvaro_uribot",
+  "version": "1.0.0",
+  "description": "A bot Twitter designed to create tweets word-by-word based on Markov chains from a 3200 tweets dataset",
+  "main": "tweet_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "twitter-lite": "^1.1.0"
+  }
+}
